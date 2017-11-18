@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Sufle Games",
-    "currentPage": "counterclicker.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 40,
+    "uniqCompNum": 45,
     "versionPublish": "4.4.1",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109884943-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-109884943-1');\r\n</script>",
+    "google-analytics": "<!-- Google Analytics -->\r\n<script>\r\nwindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\r\nga('create', 'UA-109884943-1', 'auto');\r\nga('send', 'pageview');\r\n</script>\r\n<script async src='https://www.google-analytics.com/analytics.js'></script>\r\n<!-- End Google Analytics -->",
     "sitemapSwitcher": "on"
   },
   "pages": {
