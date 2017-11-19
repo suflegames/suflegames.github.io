@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sufle Games",
-    "currentPage": "index.html",
+    "currentPage": "counterclicker.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 45,
     "versionPublish": "4.4.1",
@@ -50,7 +50,7 @@
       "settings": {
         "main": true,
         "title": "Sufle Games - Homepage",
-        "meta_descr": "Mobile games, android, counter strike, counter, strike, ios, casual, games",
+        "meta_descr": "Homepage of Sufle Games",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -612,7 +612,7 @@
     },
     "counterclicker.html": {
       "settings": {
-        "meta_descr": "counter, strike, global, offensive, clicker, idle, global, elite",
+        "meta_descr": "Counter Clicker, a CS:GO themed idle clicker",
         "title": "Sufle Games - Counter Clicker",
         "order": 1
       },
